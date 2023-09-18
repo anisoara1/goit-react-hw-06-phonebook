@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anisoara1/goit-react-hw-06-phonebook/static/css/main.864ffed0.css",
+    "main.js": "/anisoara1/goit-react-hw-06-phonebook/static/js/main.a080e8ab.js",
+    "index.html": "/anisoara1/goit-react-hw-06-phonebook/index.html",
+    "main.864ffed0.css.map": "/anisoara1/goit-react-hw-06-phonebook/static/css/main.864ffed0.css.map",
+    "main.a080e8ab.js.map": "/anisoara1/goit-react-hw-06-phonebook/static/js/main.a080e8ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864ffed0.css",
+    "static/js/main.a080e8ab.js"
+  ]
+}
