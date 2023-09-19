@@ -50,6 +50,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/json-schema": "^7.0.13"
+    "@types/json-schema": "^7.0.13",
+    "@types/node": "^20.6.2"
   }
 }
